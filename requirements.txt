@@ -8,7 +8,6 @@ Shapely
 streamlit
 streamlit-folium
 numpy
-re
 geopy
 HeatMap
 folium.plugins
