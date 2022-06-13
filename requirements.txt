@@ -9,7 +9,7 @@ streamlit
 streamlit-folium
 numpy
 geopy
-folium.plugins
+folium
 io
 base64
 matplotlib
