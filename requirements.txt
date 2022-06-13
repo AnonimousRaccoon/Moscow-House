@@ -10,8 +10,6 @@ streamlit-folium
 numpy
 geopy
 folium
-io
-base64
 matplotlib
 matplotlib-inline
 zipfile
