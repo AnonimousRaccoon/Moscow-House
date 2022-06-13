@@ -9,7 +9,6 @@ streamlit
 streamlit-folium
 numpy
 geopy
-HeatMap
 folium.plugins
 io
 base64
